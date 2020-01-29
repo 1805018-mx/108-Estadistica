@@ -10,4 +10,7 @@ Lista de actividades del Curso.
  + tarea de hoy
  + Creamos nuestro proyecto en RStudio (*108-Estadistica.Rproj*)
  + Actualizamos nuestro repositorio vía versión control (*Git*)
+
+ + Clase 3: 29.01.2020
+  + Instalar paquetería para R
  
