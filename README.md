@@ -18,4 +18,6 @@ Lista de actividades del Curso.
   + Actualizar en "GitHub"
   
   + :paperclip: Clase 4: 30.01.2020 (*Script 2*)
-   + Importar dase de datos de excel en forma *csv*
+   + Importar dase de datos de excel en forma *.csv*
+   + utilizar el comando *read.csv*
+   
