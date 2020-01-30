@@ -11,6 +11,8 @@ Lista de actividades del Curso.
  + Creamos nuestro proyecto en RStudio (*108-Estadistica.Rproj*)
  + Actualizamos nuestro repositorio vía versión control (*Git*)
 
- + Clase 3: 29.01.2020
+ + Clase 3: 29.01.2020 (*Script 1*)
   + Instalar paquetería para R
- 
+  + Estadísticas descriptivas
+  + Compilar Scripten formato "PDF"
+  + Actualizar en "GitHub"
