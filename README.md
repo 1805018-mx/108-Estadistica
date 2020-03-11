@@ -21,3 +21,13 @@ Lista de actividades del Curso.
    + Importar dase de datos de excel en forma *.csv*
    + utilizar el comando *read.csv*
    
+   
+   
+   
+   
+   
+   
+   
+   
+   :paperclip: Clase 13: Pruebas de T
+   

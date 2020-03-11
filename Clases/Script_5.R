@@ -12,3 +12,17 @@ setwd("C:/Tareas1/108-Estadistica/Clases")
 Vivero <- read.csv("viveros.csv", header = T)
 
 summary(Vivero)
+
+
+boxplot(Vivero$IE~ Vivero$Tratamiento,col="lightgreen",
+        xlab = "Tratamientos", ylab = "IE")
+
+
+
+
+# Pruebas de T ------------------------------------------------------------
+
+t.test(Vivero$IE~ Vivero$Tratamiento, var.equal =T)
+
+        
+        
