@@ -14,7 +14,7 @@ Vivero <- read.csv("viveros.csv", header = T)
 summary(Vivero)
 
 
-boxplot(Vivero$IE~ Vivero$Tratamiento,col="lightgreen",
+boxplot(Vivero$IE~ Vivero$Tratamiento,col="green",
         xlab = "Tratamientos", ylab = "IE")
 
 

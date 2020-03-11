@@ -30,4 +30,5 @@ Lista de actividades del Curso.
    
    
    :paperclip: Clase 13: Pruebas de T
-   
+    +  pruebas de T de dos muestras independientes
+
